@@ -2,7 +2,7 @@
 # 🚀 Tutorial solucionar Problemas de CORS con Laravel Lumen y Angular
 
 ![Project Banner](https://i.ibb.co/8NVVJdt/CORS.png)
-
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@devtao3753)
 ## 📖 Description
 
 Descripción: En este video, te mostraré cómo solucionar los problemas más comunes relacionados con CORS (Cross-Origin Resource Sharing) al trabajar con Laravel Lumen en el backend y Angular en el frontend. Exploraremos qué es CORS, por qué aparece este error, y te guiaré paso a paso para configurar correctamente las cabeceras y permisos en Lumen. Al finalizar este tutorial, sabrás cómo evitar bloqueos al realizar peticiones HTTP entre dominios diferentes y lograr una integración fluida entre tu API y tu aplicación Angular. ¡No te lo pierdas!
